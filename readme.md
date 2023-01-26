@@ -1,3 +1,10 @@
+## IMPORTANT
+
+This is a fork of the Smart Contract puzzles from Alchemy Solidity Course - https://university.alchemy.com/course/ethereum.
+
+For game5Test to work you need to go to hardhat.config.js and uncomment the lines - other gameTests will not work.
+This was done because I wanted to focus on finishing these challenges as fast as possible :)
+
 ## Contract Puzzles
 
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
